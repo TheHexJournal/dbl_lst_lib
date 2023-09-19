@@ -30,4 +30,4 @@ Even if `*head` is not the first node, function will seek the first node and fre
 `destructor` can be `NULL`, in which case no destructor will be called, but memory allocated for each node will still be freed. <br>
 
 ## Example
-An example showing how to use the library can be found [here](https://thehexjournal.com/?p=134).
+The library is discussed in more detail [here](https://thehexjournal.com/?p=134).
